@@ -19,3 +19,19 @@ Olemas olevad skriptid on:
 Olemas olevad ülesanded:
 - LinuxOS
 	- lesson-1
+	- lesson-2
+
+## Tööriistale olemasolevad käsud
+```bash
+<program_name> start
+
+<program_name> task start --id <task_id>
+<program_name> task submit --id <task_id>
+
+<program_name> task list
+<program_name> task list --long
+
+<program_name> task advice --id <task_id>
+
+<program_name> finish
+```
