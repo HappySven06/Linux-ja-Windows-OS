@@ -2,7 +2,14 @@
 
 Tööriista saab alla laadida siit:
 ```bash
+# bash
+
 curl -fsSL https://tasks.homelab.ee/<course>/<script_name> | bash -s <exersice>
+```
+```PowerShell
+# PowerShell
+
+Invoke-WebRequest -Uri https://tasks.homelab.ee/<course>/<script> -OutFile install.ps1; .\install.ps1 <exersice>
 ```
 
 Ülesandeid saab ainult VMs (virtuaalmasinas) jooksutada.
@@ -20,6 +27,10 @@ Olemas olevad ülesanded:
 - LinuxOS
 	- lesson-1
 	- lesson-2
+   
+- WinOS
+	- lesson-1
+ 	- lesson-2 
 
 ## Tööriistale olemasolevad käsud
 ```bash
