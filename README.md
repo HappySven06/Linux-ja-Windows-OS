@@ -27,10 +27,12 @@ Olemas olevad ülesanded:
 - LinuxOS
 	- lesson-1
 	- lesson-2
+ - lesson-3
    
 - WinOS
 	- lesson-1
- 	- lesson-2 
+ - lesson-2 
+ - lesson-3
 
 ## Tööriistale olemasolevad käsud
 ```bash
