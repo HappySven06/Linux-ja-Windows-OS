@@ -9,6 +9,8 @@ curl -fsSL https://tasks.homelab.ee/<course>/<script_name> | bash -s <exersice>
 ```PowerShell
 # PowerShell
 
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
 Invoke-WebRequest -Uri https://tasks.homelab.ee/<course>/<script> -OutFile install.ps1; .\install.ps1 <exersice>
 ```
 
