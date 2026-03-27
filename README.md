@@ -1,3 +1,16 @@
+# Kursuse info
+
+Siit leiad kõik kursusega seotud dokumendid ja materjalid.
+
+## Kursuse materjalid
+
+- [Klassi kodukord](class_docs/class_conduct.md)
+- [Hindamisjuhend](class_docs/grading_guide.md)
+---
+- [Käsurea põhitõed (Linux ja PowerShell)](materials/command_line_basics.md)
+
+---
+
 # Kuidas kasutada CLI tööriista
 
 Tööriista saab alla laadida siit:
@@ -26,13 +39,13 @@ Olemas olevad skriptid on:
 - uninstall
 
 Olemas olevad ülesanded:
-- LinuxOS
+- **LinuxOS**
  	- lesson-1
  	- lesson-2
   - lesson-3
   - lesson-4
    
-- WinOS
+- **WinOS**
  	- lesson-1
   - lesson-2 
   - lesson-3
