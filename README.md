@@ -8,6 +8,7 @@ Siit leiad kõik kursusega seotud dokumendid ja materjalid.
 - [Hindamisjuhend](class_docs/grading_guide.md)
 ---
 - [Käsurea põhitõed (Linux ja PowerShell)](materials/command_line_basics.md)
+- [TPTLab kasutus juhend](materials/tptlab_usage_guide.md)
 
 ---
 
@@ -40,13 +41,13 @@ Olemas olevad skriptid on:
 
 Olemas olevad ülesanded:
 - **LinuxOS**
- 	- lesson-1
- 	- lesson-2
+  - lesson-1
+  - lesson-2
   - lesson-3
   - lesson-4
    
 - **WinOS**
- 	- lesson-1
+  - lesson-1
   - lesson-2 
   - lesson-3
 
