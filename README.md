@@ -11,6 +11,7 @@ Siit leiad kõik kursusega seotud dokumendid ja materjalid.
 - [TPTLab kasutus juhend](materials/tptlab_usage_guide.md)
 ---
 - [06.04 Tunni ülesanne – Samba failiserver](materials/06.04_lesson_task.md)
+- [13.04 Tunni ülesanne – Rsync ja cron](materials/13.04_lesson_task.md)
 
 ---
 
