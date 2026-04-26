@@ -9,6 +9,7 @@ Siit leiad kõik kursusega seotud dokumendid ja materjalid.
 ---
 - [Käsurea põhitõed (Linux ja PowerShell)](materials/command_line_basics.md)
 - [TPTLab kasutus juhend](materials/tptlab_usage_guide.md)
+- [Git põhitõed](materials/git_basics.md)
 ---
 - [06.04 Tunni ülesanne – Samba failiserver](materials/06.04_lesson_task.md)
 - [13.04 Tunni ülesanne – Rsync ja cron](materials/13.04_lesson_task.md)
